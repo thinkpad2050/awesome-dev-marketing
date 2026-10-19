@@ -66,6 +66,7 @@
 * **[Discord](https://discord.com/)** - Widely used for dev community chats.
 * **[Stack Overflow Collective](https://stackoverflow.com/collectives/)** - Collaborate with devs via branded community spaces.
 * **[Forem](https://forem.com/)** - The open-source engine behind Dev.to.
+* **[OpenSparta](https://opensparta.com/en)** - A SaaS workspace for discovering relevant Telegram audiences, managing accounts, and streamlining engagement workflows.
 
 ## Analytics and Feedback
 
